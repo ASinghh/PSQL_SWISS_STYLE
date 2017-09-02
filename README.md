@@ -18,6 +18,8 @@ During the time of my work I had the following thought process:
 4. The above schema covers all possible information about a swiss style tournament.
 5. Due to the compact nature of the database, recombining the tables has become a little computationally expensive. I had created a VIEW to 
    recombine the tables. I am working on the view so as to make it less computationally expensive.
+   
+I have also written some python functions to do the basic functions such as adding, removing players, creating pairs etc
 
 
 
